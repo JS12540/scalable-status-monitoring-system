@@ -42,7 +42,7 @@ Status: <Latest Update>
 
 ---
 
-# ⚡ Why This Architecture Is Near Real-Time
+# Why This Architecture Is Near Real-Time
 
 Traditional feed polling:
 
