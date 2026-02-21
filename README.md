@@ -126,11 +126,11 @@ Even without Free Tier, costs remain extremely low:
 
 ### Why Cost Stays Low
 
-✔ Fully serverless (no idle compute)  
-✔ Pay-per-use pricing  
-✔ Lightweight payloads  
-✔ Minimal logging volume  
-✔ SQS extremely cheap  
+- Fully serverless (no idle compute)  
+- Pay-per-use pricing  
+- Lightweight payloads  
+- Minimal logging volume  
+- SQS extremely cheap  
 
 ---
 
